@@ -1,6 +1,6 @@
 # Network_Config_Generator
 A program to semi automatically generate code for Network devices.
-
+Final Goal: Be able to complete any of the cisco/netacad labs using this application
 
 _Main page_
 
